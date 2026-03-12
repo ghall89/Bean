@@ -1,23 +1,8 @@
-# mac-app-template
+# Bean
 
-A template for creating native macOS apps without using Xcode (though Xcode is required to be installed).
+A simple kanban board I made for personal use. I named it Bean because I like coffee.
 
-This template combines [swift-bundler](https://github.com/moreSwift/swift-bundler), [swiftformat](https://github.com/nicklockwood/SwiftFormat), [create-dmg](https://github.com/create-dmg/create-dmg), and [go-task](https://github.com/go-task/task) to provide a mostly pre-configured solution for building a Mac application.
-
-## Prerequisites
-
-- [Xcode](https://developer.apple.com/xcode/)
-- [Homebrew](https://brew.sh/)
-
-## Setup
-
-The easiest way to get started with this template is with [create-mac-app](https://github.com/ghall89/create-mac-app) with the following command:
-
-`curl -s https://raw.githubusercontent.com/ghall89/create-mac-app/refs/heads/main/create-mac-app.sh | bash -s -- ProjectName`
-
-Replace ProjectName with your desired project name (no spaces).
-
-This will download the template, and replace the `{{bundle_name}}` and `{{bundle_id}}` placeholders with the appropriate values, based on your project name.
+This is purely for personal use, and I will not be supporting it, providing builds, or accepting pull requests. I'm providing the code for anyone to fork and modify to suit their needs.
 
 ### Install Tooling
 
