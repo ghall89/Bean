@@ -1,0 +1,19 @@
+{
+  "languages": {
+    "Swift": {
+      "tab_size": 2,
+      "formatter": {
+        "external": {
+          "command": "swiftformat",
+          "arguments": [
+            "stdin",
+            "--stdinpath",
+            "{buffer_path}",
+            "--output",
+            "stdout",
+          ],
+        },
+      },
+    },
+  },
+}

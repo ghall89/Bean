@@ -1,0 +1,8 @@
+{
+  "recommendations": [
+    "vknabel.vscode-swiftformat",
+    "swiftlang.swift-vscode",
+    "task.vscode-task",
+    "dnicolson.binary-plist"
+  ]
+}
